@@ -1,0 +1,1 @@
+Dan tekstovyj fajl. V nem napisan tekst, razbityj na predlozhenija. Peremeshajte slova v kazhdom predlozhenii teksta i zapishite poluchennyj tekst v novyj fajl.
